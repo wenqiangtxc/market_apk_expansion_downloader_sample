@@ -1,0 +1,4 @@
+include ':licensing_library'
+include ':downloader_library'
+include ':zip_file'
+include ':downloader_sample'
